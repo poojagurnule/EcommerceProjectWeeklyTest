@@ -145,11 +145,11 @@ The project can be extended to include additional features as required.
 
 ## Author
 
-👤 **Ajinkya Padule**
+👤 **Pooja Gurnule**
 
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
+* GitHub: [Pooja Gurnule](https://github.com/poojagurnule)
 
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
+
     
 ---
 
@@ -167,7 +167,7 @@ Give a ⭐️ if this project helped you!
     
 ## 📝 License
 
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
+
 
 This project is [MIT]("url") licensed.
     
